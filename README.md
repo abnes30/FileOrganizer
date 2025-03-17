@@ -28,9 +28,12 @@ Then, enter the directory path you want to organize.
 ### Before Running the Script:
 ![Before](before_screenshot.png)
 
+### Running the Script:
+![Run](run_screenshot.png)
+
 ### After Running the Script:
 ![After](after_screenshot.png)
-![After2](after_screenshot2.png)
+
 
 ## File Categories
 | Category   | Extensions |
