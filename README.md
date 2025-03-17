@@ -47,6 +47,3 @@ Then, enter the directory path you want to organize.
 
 ## Contributing
 Feel free to fork this project and submit pull requests with improvements or new features.
-
-## License
-This project is licensed under the MIT License.
